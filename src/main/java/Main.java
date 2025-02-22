@@ -14,7 +14,7 @@ public class Main {
         TCKN tcknNesne = new TCKN();
         tcknNesne.setTckn(tckn);
 
-
+        System.out.println("Proje tamamlandi");
 
     }
 
